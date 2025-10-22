@@ -1,0 +1,14 @@
+body{
+
+    color:deeppink;
+    background: burlywood;
+    margin: 0px;
+}
+
+header{
+border-bottom: solid 5px white
+padding: 20px;
+font-size: 32px;
+color: pink;
+
+}
