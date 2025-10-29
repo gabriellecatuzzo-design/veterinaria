@@ -1,33 +1,35 @@
-body{
+body {
 
-    color:deeppink;
+    color: deeppink;
     background: burlywood;
     margin: 0px;
     font-family: "Libre Baskerville", sans-serif;
 }
 
-header{
-border-bottom: solid 5px white
-padding: 20px;
-font-size: 32px;
-color: pink;
+header {
+    border-bottom: solid 5px white padding: 20px;
+    font-size: 32px;
+    color: pink;
 
 }
 
-section{
-background-color: aqua;
-padding-bottom: 80px;
-display: flex;
-justify-content: center;
+section {
+    background-color: aqua;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
 
 }
-.chamada-texto{
-margin-right: 5%;
+
+.chamada-texto {
+    margin-right: 5%;
 
 }
-h1{
+
+h1 {
     font-size: 40px;
 }
-p{
+
+p {
     font-size: 20px;
 }
