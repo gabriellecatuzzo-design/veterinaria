@@ -3,6 +3,7 @@ body{
     color:deeppink;
     background: burlywood;
     margin: 0px;
+    font-family: "Embed code", sans-serif;
 }
 
 header{
@@ -23,4 +24,10 @@ justify-content: center;
 .chamada-texto{
 margin-right: 5%;
 
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
 }
