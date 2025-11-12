@@ -13,7 +13,7 @@ header {
 
 }
 
-section {
+.chamada{
     background-color: aqua;
     padding-bottom: 80px;
     display: flex;
@@ -32,4 +32,16 @@ h1 {
 
 p {
     font-size: 20px;
+}
+img{
+    height: 200px;
+}
+.categoria-videos{
+    display:flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categora{
+    padding-left: 20px;
+    padding-right: 50px;
 }
